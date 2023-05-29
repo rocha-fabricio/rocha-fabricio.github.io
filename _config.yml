@@ -12,10 +12,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Fabricio Rocha # add your name
 author-img: fabricio-rocha.jpg # add your photo
 about-author: Desenvolvedor Backend | Java | Spring Boot | Kafka | Microserviço # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-twitter: # add your Twitter handle
+#social-facebook: # add your Facebook handle
 social-github: rocha-fabricio # add your Github handle
-social-linkedin: https://www.linkedin.com/in/frabs/ # add your Linkedin handle
+social-linkedin: frabs # add your Linkedin handle
 social-email: contato@fabricior.com.br # add your Email address
 
 # Disqus
