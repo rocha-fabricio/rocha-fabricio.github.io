@@ -10,8 +10,8 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Fabricio Rocha # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author-img: fabricio-rocha.jpg # add your photo
+about-author: Desenvolvedor Backend | Java | Spring Boot | Kafka | Microserviço # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: rocha-fabricio # add your Github handle
